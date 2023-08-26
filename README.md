@@ -1,4 +1,4 @@
-Team Name: iemhacks_IND_HACKERS
+Team Name: IND_HACKERS
 
 Members:
 1) Rahul Kumar(GitHub Username:itsrahul2706)
