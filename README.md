@@ -9,4 +9,17 @@ Members:
                       subjects. Users can practice with quiz questions similar to those in exams, enhancing their confidence and readiness. Users also receives instant feedback on their answers, helping them 
                       understand mistakes and learn from them.
 
-   PROJECT INSTALLATION: 
+   PROJECT INSTALLATION SETUP:
+   
+   1. Install Dependencies Frontend
+   2. npm install
+   3. cd frontend
+   4. Install Dependencies Backend
+   5. npm install
+   6. cd backend
+   7. Set Up The Database
+   8. Build Frontend Assets
+   9. Configure Web Server
+   10. Start the Web Server
+   11. Access The Website
+   
